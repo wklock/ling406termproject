@@ -1,2 +1,6 @@
 .texpadtmp/
 .idea/
+.DS_Store
+*.zip
+SentiWordNet.txt
+train.csv
